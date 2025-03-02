@@ -1,4 +1,4 @@
-# 博彩套利手册 <small>1.0</small>
+# 博彩套利手册 <medium>1.0</medium>
 
 > Betting Arbitrage Handbook
 
