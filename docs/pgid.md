@@ -1,15 +1,13 @@
-## 注册教程：
+### 注册教程：
 
-> 可参考[苹果美区账号注册教程][2]
+可参考[苹果美区账号注册教程](https://iyuantiao.com/fenxiangfuli/jiaocheng/tiktok-3.html)
 
-## 注意事项：
+或者购买账号——>[苹果id俱乐部](https://pgid.club/)
 
-> 美区账号只能用来登陆应用商店下载软件使用！
+### 注意事项：
 
-## 账户充值：
+美区账号只能用来登陆应用商店下载软件使用！
 
-> 支付宝搜索 PockytShop 小程序
+### 账户充值：
 
-
-  [1]: https://tuchuang.taoliwang.cc/image/appletu.png
-  [2]: https://iyuantiao.com/fenxiangfuli/jiaocheng/tiktok-3.html
+支付宝搜索 PockytShop 小程序

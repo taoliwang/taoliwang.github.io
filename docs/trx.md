@@ -1,0 +1,30 @@
+#### TRX（波场币）：
+
+![trx][2]
+
+波场(Tron)是一个去中心化的、基于持有量证明的区块链，具备智能合约功能。  
+
+也用于代指在其基础上内生的加密货币TRX，**TRX是TRON区块链网络的原生代币**
+
+### Tron(TRC20)：
+
+TRC20是波场网络（Tron）的代币标准，类似于以太坊的ERC20。  
+
+TRC20代币可以在波场网络上进行转账、交易和智能合约操作。
+ 
+基于波场TRC20协议的USDT，充币地址是TRON地址，充提币走TRON网络。
+
+#### 根据波场（ TRON ）规则:
+
+在正常情况下，每笔波场（TRON）转账需要燃烧约 13.6 TRX 或 65,000 能量来发起转账
+ 
+如果对方地址 USDT 为 0，交易则需要双倍燃烧约 27.2 TRX 或 131000 的能量来发起转账
+
+### [TRX能量租用][3]
+
+**通过租用能量可节省一半多的转账手续费**
+
+
+  [1]: https://tuchuang.taoliwang.cc/image/trxtu.png
+  [2]:https://tuchuang.taoliwang.cc/image/tron.png
+  [3]:https://taoliwang.cc/swjc/124.html
