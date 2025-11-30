@@ -16,4 +16,4 @@
 19999U
 
 ### 唯一联系方式：
-> 飞机（Telegram）：[taoliwang](https://t.me/taoliwang)
+飞机（Telegram）：[taoliwang](https://t.me/taoliwang)
