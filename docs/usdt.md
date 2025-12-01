@@ -1,8 +1,6 @@
 #### USDT（泰达币）：
-
-#### USDT（Tether）代币是建立在各种区块链上的数字稳定代币
-
-![usdt](https://tuchuang.taoliwang.cc/image/tether.png)
+![usdt](https://tuchuang.taoliwang.cc/image/usdt.png ':size=100*100')  
+USDT（Tether）代币是建立在各种区块链上的数字稳定代币
 
 
 Tether公司推出的基于稳定价值货币美元（USD）的代币Tether USD（下称USDT），1USDT=1美元，用户可以随时使用USDT与USD进行1:1兑换。  
